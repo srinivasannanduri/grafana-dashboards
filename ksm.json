@@ -3928,8 +3928,8 @@
       ]
     },
     "timezone": "browser",
-    "title": "kube-state-metrics-v2",
-    "uid": "garysdevil-kube-state-metrics-v2",
+    "title": "kube-state-metrics",
+    "uid": "kube-state-metrics",
     "version": 1,
     "weekStart": ""
   }
